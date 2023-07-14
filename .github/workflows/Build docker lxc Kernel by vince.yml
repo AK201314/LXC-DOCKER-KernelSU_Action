@@ -1,4 +1,4 @@
-name: Build ksu docker lxc Kernel
+name: Build docker lxc Kernel by vince
 on:
   watch:
     types: [started]
